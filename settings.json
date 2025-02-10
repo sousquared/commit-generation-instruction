@@ -1,0 +1,16 @@
+"github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Please write the commit message in accordance with Conventional Commits in English."
+    },
+    {
+      "text": "Please write the commit message in the following format:"
+    },
+    {
+      "text": ":emoji: Subject Commit Overview"
+    },
+    {
+      "text": "Emoji Examples:"
+    },
+    {
+      "text": "🐛 :bug: Bugfix | 👌 :ok_hand: Code review changes | ✨ :sparkles: New feature | 🚧 :construction: Work in progress | ⚡️ :zap: Improve performance | 🎨 :art: Improve structure/format of the code | ♻️ :recycle: Refactor code | 📚 :books: Documentation | ✅ :white_check_mark: Adding a test | 🧪 :test_tube: Add a failing test | 🔥 :fire: Removing code/files | 👷 :construction_worker: Add or update CI build system | 💚 :green_heart: Fix CI Build | 💥 :boom: Breaking changes | 🚀 :rocket: Deploying stuff | 🐳 :whale: Docker | 👕 :shirt: Lint | 🔧 :wrench: Configuration files | ➕ :heavy_plus_sign: Add a dependency | ⬆️ :arrow_up: Upgrading dependencies | ⬇️ :arrow_down: Downgrading dependencies"
+    }
